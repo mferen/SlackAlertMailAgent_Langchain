@@ -28,7 +28,7 @@ This project is an AI-driven workflow that automates email generation and sendin
 3. Configure environment variables (Slack and OpenAI API keys, Google credentials).
 4. Run the application:
    ```bash
-   uvicorn app:api --host 0.0.0.0 --port 8000
+   uvicorn app:api --host 0.0.0.0 --port 7844
    ```
 
 
